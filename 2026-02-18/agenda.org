@@ -1,0 +1,10 @@
+* Methods/Functions
+[Deitel - Chapter 5]
+
+- [X] Declaring methods
+- [X] Calling methods
+- [X] Using methods as a Tool
+- [X] Methods/functions as software structures
+
+
+A method is about *declaring* a compound procedure and then *labeling* it!
