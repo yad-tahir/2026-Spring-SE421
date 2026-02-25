@@ -1,0 +1,54 @@
+* Java Classes
+[Paul - Chapter 7]
+
+- [X] Classes & *code separation*
+- [X] Class members
+- [X] What are objects?
+- [X] Keyword 'new'
+- [X] Object instances vs Object pointers
+- [X] static keyword
+
+* Lab 1:
+
+Create a terminal based calculator written in Java. Your application should
+
+1- Allow use to enter two integers.
+2- Print the results of addition, subtraction, multiplication & division operations.
+
+Add code structures via the use of methods and classes *AS MUCH AS POSSIBLE* - i.e. go wild with over engineering!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* H.W.
+ST is an open-source terminal written entirely in C.
+
+Download the st.c file from the project. The URL is:  https://git.suckless.org/st/file/st.c.html; The git repo of the project is https://git.suckless.org/st/.
+
+Then answer the questions below:
+
+** Q1: Explain why the following line, written in the function 'tsetmode', is considered to be well-designed code:
+#+BEGIN_SRC c
+
+  tcursor((set) ? CURSOR_SAVE : CURSOR_LOAD);
+
+#+END_SRC
+
+** Q2: If the function 'eschandle' is written in Java, what would you name it?
+** Q3: Reduce the complexity of the function 'selsnap'.
+** Q4 *IMPORTANT*: Reduce the complexity of the function 'tsetattr'.
