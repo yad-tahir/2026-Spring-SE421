@@ -13,27 +13,12 @@
 Create a terminal based calculator written in Java. Your application should
 
 1- Allow use to enter two integers.
+
 2- Print the results of addition, subtraction, multiplication & division operations.
 
 Add code structures via the use of methods and classes *AS MUCH AS POSSIBLE* - i.e. go wild with over engineering!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Upload your source files as a *.zip* file to Moodle.
 
 * H.W.
 ST is an open-source terminal written entirely in C.
