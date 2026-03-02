@@ -1,0 +1,8 @@
+* Java Classes - continued
+[Paul - Chapter 7 & 8]
+
+- [X] Recap classes and objects
+- [X] Constructors
+- [X] this() and this.
+- [X] Static blocks
+- [X] Member access modifiers: public and private
