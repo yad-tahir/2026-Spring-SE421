@@ -1,0 +1,13 @@
+* Java Classes - Part 3
+[Paul - Chapter 7 & 8]
+
+- [X] Class inheritance
+- [X] keyword: super. super()
+- [X] Method over-riding
+- [X] protected access modifier
+
+- [X] Class as a structuring tool
+- [X] CRC (Class Responsibility Collaboration) cards
+- [X] UML Class diagram
+
+- [X] SE421: Lab 2
