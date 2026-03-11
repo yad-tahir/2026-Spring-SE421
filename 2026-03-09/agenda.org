@@ -1,0 +1,9 @@
+* Misc tools in OOP
+[Paul - Chapter 7 & 8]
+
+- [X] Side notes about UML class diagram
+- [X] Multi-super class setup
+- [X] *final* keyword
+- [X] *abstract* keyboard (class + method)
+- [X] Class packages
+- [X] Access modifiers: protected and default
