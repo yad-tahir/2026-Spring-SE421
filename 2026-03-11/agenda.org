@@ -1,0 +1,15 @@
+* Contractual Abstraction
+[Paul - Chapter 7 & 8]
+
+- [X] Complexity and abstraction
+- [X] Recap procedural abstraction and entity abstraction
+- [X] Java interfaces
+- [X] Introduce: contractual abstraction: i.e. roll abstraction & pure behavioral abstraction
+
+* Polymorphism
+[Paul - Chapter 7 & 8]
+
+- [X] Polymorphic code
+- [X] Polymorphism with inheritance
+- [X] Polymorphism with interface
+       ^-- turns your classes ordinary into the extraordinary - *Unbelievably gorgeous in abstract space!*
