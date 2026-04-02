@@ -1,0 +1,9 @@
+* Code Coupling
+[John - Chapter 7]
+[Paul - Chapter 8]
+
+- [X] Code Coupling
+- [X] Tight Coupling vs Loose Coupling
+- [X] *Abstraction* and Coupling
+- [X] Anonymous classes
+- [X] Cases/Examples
