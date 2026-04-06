@@ -1,0 +1,7 @@
+* Design Patterns - Introduction
+[Erich - Chapter 1]
+
+- [X] What is a design pattern?
+- [X] Variable member Accessibility Problem
+- [X] Getter/Setter design pattern
+- [X] Java code
