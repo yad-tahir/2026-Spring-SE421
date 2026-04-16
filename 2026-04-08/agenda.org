@@ -1,0 +1,8 @@
+* Inheritance Issue
+- [X] What is the key issue of class inheritance?
+- [X] Java Code
+
+* Strategy Design Pattern - Part 1
+[Erich - Chapter 5, Page 315]
+- [X] Strategy Design Pattern
+- [X] Java Code
