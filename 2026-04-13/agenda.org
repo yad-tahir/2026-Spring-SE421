@@ -1,0 +1,4 @@
+* Strategy Design Pattern - Part 2
+[Erich - Chapter 5, Page 315]
+- [X] Strategy Design Pattern
+- [X] Java Code
