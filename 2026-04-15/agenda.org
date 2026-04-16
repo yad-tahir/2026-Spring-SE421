@@ -1,0 +1,6 @@
+* Strategy Design Pattern - Part 2
+[Erich - Chapter 5, Page 315]
+
+- [X] Strategy Design Pattern - Non-Inheritance
+- [X] Why it is called 'Strategy'
+- [X] Java Code
