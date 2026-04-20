@@ -1,0 +1,8 @@
+* Creational Design Patterns - Part 1
+[Erich - Chapter 3, Page 87 & Page 107]
+
+- [X] What are /Creational/ patterns
+- [X] Factory Design Pattern
+- [X] Java Code
+- [X] Java APIs: Executors and Google HTTP Client Library
+- [X] Unit Testing
