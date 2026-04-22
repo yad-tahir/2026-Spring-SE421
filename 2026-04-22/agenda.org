@@ -1,0 +1,9 @@
+* Creational Design Patterns - Part 2
+[Online Reference]
+
+- [X] Recap - Part 1
+- [X] Factory Design Pattern & Class Inheritance
+- [X] Dependency Injection (DI)
+- [X] Pros & Cons
+- [X] Third-party API: Google Guice
+- [X] Java code
