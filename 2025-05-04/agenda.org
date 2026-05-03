@@ -1,0 +1,18 @@
+* Observer/Listener Design Pattern
+[Enrich - Chapter 5, Page 293]
+
+- [X] Observe Changes in states
+- [X] Problem
+- [X] Multiple solutions
+- [X] Observer Design Pattern
+
+** Application Domain
+https://www.tradingview.com/chart/
+
+
+** ***Other examples
+https://docs.oracle.com/javase/tutorial/uiswing/components/button.html
+
+https://www.w3schools.com/jsref/event_onclick.asp
+
+https://www.geeksforgeeks.org/python/python-creating-a-button-in-tkinter/
