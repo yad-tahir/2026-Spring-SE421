@@ -1,0 +1,9 @@
+* Fine-grained observers
+[Enrich - Chapter 5, Page 293]
+
+- [X] Did a object changed after a method call?
+- [X] Passing-By-Value vs Passing-By-Reference
+- [X] Content compare before and after
+- [X] == vs equals()
+- [X] Immunity against change
+- [X] From Passing-By-Reference to Passing-By-Value
