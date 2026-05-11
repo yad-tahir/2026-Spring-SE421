@@ -1,0 +1,8 @@
+* Immutable Design Pattern - Part 1
+
+- [X] What are immutable objects?
+- [X] Code Example - Converting mutable class to become immutable.
+- [X] Where to apply it?
+- [X] ***Java records
+- [X] Quality of life improvement for immutable classes.
+- [X] Cons of immutability.
