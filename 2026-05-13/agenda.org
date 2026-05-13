@@ -1,0 +1,10 @@
+* Immutable Design Pattern - Part 2
+
+- [X] Recap: Immutable Objects
+- [X] Immutable objects and Pass-by-Reference
+- [X] Immutable objects and ==
+- [X] Immutable data structures
+- [X] Solution to /state snapshots/
+- [X] ***ZFS: snapshots
+- [X] /Undo functionality/ requirements
+- [X] Algo: Copy-On-Write (CoW)
